@@ -1,0 +1,5 @@
+python -m venv DBAvenv
+.\.venv\Scripts\Activate.ps1
+pip install --upgrade pip
+pip install streamlit pandas numpy scikit-learn xgboost plotly sentence-transformers faiss-cpu requests
+streamlit run app.py

@@ -1,0 +1,98 @@
+EMPLOYEE WELLBEING AND BURNOUT FRAMEWORK
+Version: 1.1
+Effective Date: January 2026 (Revised)
+Department: Human Resources & People Analytics
+Classification: Company‑Wide Framework
+
+1. PURPOSE AND SCOPE
+[cite_start]This framework connects multiple HR policies into a single model for detecting, preventing, and responding to burnout and wellbeing risks[cite: 1]. [cite_start]It links workload, flexible work, recognition, mental health support, and performance management[cite: 2]. [cite_start]It applies to all employees and is intended to guide managers, HR, and leadership in day‑to‑day decisions[cite: 3].
+
+2. EARLY‑RISK SIGNALS
+Managers and HR should monitor the following objective signals, available via People Analytics dashboards:
+- [cite_start]Sustained weekly hours > 48 over 4+ weeks [cite: 4]
+- [cite_start]Self‑reported stress ≥ 7/10 in two consecutive measurements [cite: 4]
+- [cite_start]Sudden or sustained drop in work quality or delivery from a previously reliable employee [cite: 4]
+- [cite_start]Pattern of unplanned absences or sick days [cite: 4]
+- [cite_start]Noticeable withdrawal from team collaboration or communication changes [cite: 4]
+
+[cite_start]If at least two signals are present, the employee is considered “At‑Risk” and a wellbeing check‑in is required within five business days[cite: 4, 5].
+
+3. WELLBEING CHECK‑IN PROCESS
+3.1 Timing
+[cite_start]A wellbeing check‑in must be scheduled within 5 business days after risk signals trigger[cite: 5].
+
+3.2 Conversation Structure: The Supportive Approach
+Managers should structure the conversation by:
+- [cite_start]Opening with a neutral, supportive statement focusing on observations, not assumptions, e.g., "I've noticed your weekly hours have been high recently, how are you managing?" [cite: 6]
+- [cite_start]Asking about workload, priorities, and any constraints they are facing[cite: 6].
+- [cite_start]Avoiding judgmental language or assuming a clinical diagnosis[cite: 6].
+- [cite_start]Explaining that the purpose is support and resource connection, not discipline[cite: 6].
+- [cite_start]Discussing concrete options: flexible work, workload changes, EAP, or leave[cite: 6].
+
+3.3 Documentation
+Managers document:
+- [cite_start]Date of conversation [cite: 6]
+- [cite_start]Main issues discussed (in non‑clinical language) [cite: 6]
+- [cite_start]Agreed actions and timelines [cite: 6]
+- [cite_start]Date of follow‑up [cite: 6]
+
+[cite_start]Notes are stored in secure HR systems with limited access[cite: 6].
+
+4. INTERVENTION LEVELS
+The framework uses three levels, aligned with the Burnout Prevention Policy.
+
+4.1 Level 1 – Light Adjustment (Emerging Risk)
+[cite_start]Used when risk is emerging but performance is still largely intact[cite: 8].
+
+Typical actions:
+- [cite_start]**Clarify and Reprioritize**: Postpone/de‑scope lower‑value tasks or projects[cite: 9].
+- [cite_start]**Protect Focus Time**: Block recurring focus time in the calendar[cite: 9].
+- [cite_start]**Encourage Rest**: Encourage taking existing PTO or mental health days[cite: 9].
+- [cite_start]**Manage Meetings**: Adjust meeting load where possible[cite: 9].
+
+4.2 Level 2 – Structured Support Plan (Clear Impact)
+[cite_start]Used when burnout risk is clearly affecting performance or wellbeing[cite: 10].
+Typical components:
+- [cite_start]Temporary cap on weekly hours and overtime[cite: 10].
+- [cite_start]Clear boundaries on after‑hours communication[cite: 10].
+- [cite_start]Short‑term flexible or hybrid work arrangement[cite: 10].
+- [cite_start]Planned use of EAP or coaching[cite: 10].
+- [cite_start]Weekly or bi‑weekly check‑ins over 4–8 weeks[cite: 10].
+
+4.3 Level 3 – Formal Leave or Role Change (Critical Risk)
+[cite_start]Used when the employee cannot sustain current work safely[cite: 11].
+Options:
+- [cite_start]Burnout recovery or medical leave under Leave and Time‑Off Policy[cite: 11].
+- [cite_start]Temporary or permanent move to lower‑intensity work[cite: 11].
+- [cite_start]Reduced hours or part‑time schedule[cite: 11].
+
+[cite_start]Level 3 actions require HR involvement and leadership awareness[cite: 11].
+
+5. ROLES AND RESPONSIBILITIES
+Employees:
+- [cite_start]Speak up early when workload or stress becomes unsustainable[cite: 12].
+- [cite_start]Participate actively in agreed support plans[cite: 12].
+- [cite_start]Use available programs (EAP, PTO, flexible work) as needed[cite: 13].
+
+Managers:
+- [cite_start]Monitor risk signals using accessible data and observation[cite: 14].
+- [cite_start]Conduct wellbeing check‑ins promptly[cite: 14].
+- [cite_start]Apply intervention levels consistently and without bias[cite: 15].
+- [cite_start]Escalate to HR early when patterns emerge across multiple team members[cite: 15].
+
+HR and People Analytics:
+- [cite_start]Provide dashboards and reports on key risk indicators (e.g., hours, absence, engagement)[cite: 16].
+- [cite_start]Train managers and leaders on interpreting data and having constructive conversations[cite: 17].
+- [cite_start]Identify structural or systemic causes (e.g., staffing, targets, incentives) and recommend fixes[cite: 18].
+
+Leadership:
+- [cite_start]Set realistic expectations for pace, deadlines, and growth[cite: 19].
+- [cite_start]Ensure staffing and resources match business goals[cite: 19].
+- [cite_start]Reinforce that sustainable performance is a strategic priority, not a “nice to have”[cite: 20].
+
+6. DATA, PRIVACY AND ANALYTICS
+[cite_start]The company may use aggregated data to identify risk patterns, such as work hours, absence, and attrition trends[cite: 21].
+[cite_start]Use of individual‑level data, including the predictive **Burnout Risk Score**, is strictly limited to facilitating supportive interventions by the **direct manager and HR partner only** and must comply with privacy laws[cite: 21]. [cite_start]Individual risk scores are not shared with peers, general leadership, or stored in permanent performance records[cite: 21].
+
+7. RELATIONSHIP TO OTHER POLICIES
+[cite_start]This framework supports and does not replace the Mental Health and Wellness Policy, Burnout Prevention Policy, Flexible Work Policy, Leave and Time‑Off Policy, or the **Performance Management and Wellbeing Policy**[cite: 22]. [cite_start]In case of conflict, formal policies and applicable laws take precedence[cite: 22].

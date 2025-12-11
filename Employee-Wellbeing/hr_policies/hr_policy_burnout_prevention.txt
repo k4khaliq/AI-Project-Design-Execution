@@ -1,0 +1,123 @@
+EMPLOYEE WELLBEING AND BURNOUT PREVENTION POLICY
+Version: 2.6
+Effective Date: January 2026
+Department: Human Resources
+Classification: Company‑Wide Policy
+
+1. PURPOSE
+This policy explains how the company detects, prevents, and responds to burnout risk. It defines early indicators, intervention levels, workload rules, and the link between flexibility, recognition, and sustainable performance.
+
+2. DEFINITIONS
+- Burnout: A work‑related state of physical, emotional, and mental exhaustion, typically involving exhaustion, cynicism, and reduced effectiveness.
+- At‑Risk Employee: An employee who meets defined indicators of elevated burnout risk. This is a workplace risk concept, not a clinical diagnosis.
+
+3. EARLY‑RISK INDICATORS
+Managers and HR should watch for:
+- Sustained weekly hours > 48 over a rolling 4‑week period
+- Self‑reported stress ≥ 7/10 in two consecutive check‑ins or surveys
+- Noticeable decline in engagement, responsiveness, or work quality
+- Increased unplanned absences, missed deadlines, or frequent errors
+- Withdrawal from collaboration or unusual irritability
+
+If at least two indicators are present, the manager must schedule a wellbeing check‑in.
+
+4. WELLBEING CHECK‑IN
+4.1 Timing
+The wellbeing check‑in should occur within 5 business days of identifying risk indicators.
+
+4.2 Conversation
+The manager must:
+- Hold a private, uninterrupted meeting
+- Ask open questions about workload, priorities, and capacity
+- Listen at least as much as they speak
+- Explain available options (flexible work, workload changes, EAP, leave, development adjustments)
+- Agree on next steps and a follow‑up date
+
+4.3 Documentation
+The manager documents:
+- Date of check‑in
+- Main themes (no clinical detail)
+- Actions agreed and timelines
+- Follow‑up date
+
+Records are stored in the HR/performance system with restricted access.
+
+5. INTERVENTION LEVELS
+5.1 Level 1 – Light Adjustment
+Used when stress is elevated but still manageable.
+
+Examples:
+- Reprioritizing tasks and dropping low‑impact work
+- Clarifying expectations and removing conflicting priorities
+- Blocking 2–4 hours per week as focus time
+- Encouraging use of PTO or mental health days
+
+5.2 Level 2 – Structured Support Plan
+Used when burnout risk clearly affects performance or wellbeing.
+
+Plan may include:
+- Temporary cap on weekly hours and overtime
+- Clear boundaries on after‑hours communication
+- Short‑term flexible or hybrid work arrangements
+- Expected use of EAP or coaching
+- Weekly or bi‑weekly check‑ins over 4–8 weeks
+
+The plan is documented and agreed by employee, manager, and HR.
+
+5.3 Level 3 – Formal Leave or Role Change
+Used when the employee cannot safely maintain current responsibilities.
+
+Options:
+- Burnout recovery or medical leave as defined in Leave and Time‑Off Policy
+- Temporary or permanent reassignment to a lower‑intensity role
+- Reduced or part‑time schedule, with HR and leadership approval
+
+All Level 3 actions require HR review and documentation.
+
+6. WORKLOAD MANAGEMENT RULES
+- Overtime is exceptional, not routine, and should normally be capped at 10 hours per week.
+- Managers review team workloads at least monthly.
+- No employee should carry more than three major concurrent critical projects without explicit senior approval.
+- After peak workload periods, managers should schedule recovery time where possible (lighter weeks, reduced meetings, or additional time off).
+
+7. RECOGNITION AND ENGAGEMENT
+To reduce burnout risk, managers should:
+- Give specific, timely recognition for meaningful contributions
+- Share context so employees understand impact, not just tasks
+- Involve employees in prioritization and decision‑making where practical
+
+Teams with consistently low recognition or unclear goals are considered higher‑risk for burnout and should be flagged to HR.
+
+8. FLEXIBLE WORK LINKAGE
+Burnout prevention is closely tied to flexible work practices. Managers should consider:
+- Adjusting working hours
+- Increasing remote or hybrid days where feasible
+- Using compressed weeks or temporary reduced hours in intense periods
+- Discouraging after‑hours email and chat expectations
+
+All decisions must align with the Flexible Work & Work‑Life Balance Policy and business requirements.
+
+9. ROLES AND RESPONSIBILITIES
+Employees:
+- Raise concerns early when workload or stress is unsustainable.
+- Participate honestly in wellbeing discussions and support plans.
+- Use available tools (EAP, PTO, flexible work) responsibly.
+
+Managers:
+- Monitor early indicators and act quickly when risk appears.
+- Apply intervention levels consistently and fairly.
+- Partner with HR to address structural workload issues.
+- Model healthy behavior and respect boundaries.
+
+HR and Leadership:
+- Provide training, analytics, and tools to support burnout prevention.
+- Review trends across departments and remove systemic causes (e.g., chronic understaffing, conflicting targets).
+- Ensure policies and incentive structures do not reward unhealthy overwork.
+
+10. MEASUREMENT AND REVIEW
+The company may use anonymized and aggregated data to track burnout risk trends, including:
+- Work hours and overtime patterns
+- Absence, attrition, and engagement scores
+- Use of wellbeing and flexible work programs
+
+Insights are used to improve policies and practices, not to punish individuals. HR reviews this policy every two years or after major organizational changes.
